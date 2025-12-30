@@ -15,7 +15,7 @@ def main():
 				'--batch_size', '200',
 				'--workers', '4',
 				'--output_file', 'variant_scores.csv',
-				'--dna_model', 'API_KEY_REMOVED',
+				'--dna_model', '',
 				'--organism', 'human',
 				'--sequence_length', '1MB',
 				'--chrom_startswith', '1'
